@@ -1,2 +1,2 @@
-# public-repository
-Testing publishing public repositories.
+# private-repository
+Testing publishing private repositories.
