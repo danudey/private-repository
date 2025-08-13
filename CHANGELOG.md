@@ -1,5 +1,31 @@
 # Changelog
 
+## [9.0.0](https://github.com/danudey/private-repository/compare/v0.2.1...v9.0.0) (2025-08-13)
+
+
+### ⚠ BREAKING CHANGES
+
+* go full marxism
+
+### Features
+
+* add dark mode ([9bc9816](https://github.com/danudey/private-repository/commit/9bc9816049b413e8d25a009a68fe45220912803a))
+* add dark mode ([9974170](https://github.com/danudey/private-repository/commit/99741702e1e819685155f7fa6d7264df1b6af136))
+* **irritation:** annoy people ([4d2e715](https://github.com/danudey/private-repository/commit/4d2e7150d3d12f1d21fc9798d2d53889e0d90b84))
+* **irritation:** annoy people ([7714915](https://github.com/danudey/private-repository/commit/7714915a34c0960711245191262ea0aa4fad12e3))
+
+
+### Bug Fixes
+
+* clean up readme some more ([54066b2](https://github.com/danudey/private-repository/commit/54066b2d04e2ede7eff3c245b4cf4377de8520ba))
+* go full marxism ([c83d8ce](https://github.com/danudey/private-repository/commit/c83d8ce9d95bc49c76d276df6c8bbeb3eed7071f))
+
+
+### Miscellaneous Chores
+
+* release 2.0.0 ([2fbcae3](https://github.com/danudey/private-repository/commit/2fbcae3da415ab22b70d3c63ebec136bff39dfad))
+* release 9.0.0 ([52ecbdd](https://github.com/danudey/private-repository/commit/52ecbddfcff15114f8762cafe849f1aa3146f73e))
+
 ## [0.2.1](https://github.com/danudey/public-repository/compare/v0.2.0...v0.2.1) (2025-08-12)
 
 
