@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
-	fmt.Println("Communism")
-        fmt.Println("Darkula")
-}
+    func main() {
+fmt.Println("Communism")
+fmt.Println("Darkula")
+    }
