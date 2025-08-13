@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.0.0](https://github.com/danudey/private-repository/compare/v0.2.1...v2.0.0) (2025-08-13)
+
+
+### Bug Fixes
+
+* clean up readme some more ([54066b2](https://github.com/danudey/private-repository/commit/54066b2d04e2ede7eff3c245b4cf4377de8520ba))
+
+
+### Miscellaneous Chores
+
+* release 2.0.0 ([2fbcae3](https://github.com/danudey/private-repository/commit/2fbcae3da415ab22b70d3c63ebec136bff39dfad))
+
 ## [0.2.1](https://github.com/danudey/public-repository/compare/v0.2.0...v0.2.1) (2025-08-12)
 
 
